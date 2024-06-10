@@ -1,4 +1,4 @@
-import cv2
+import cv2.cv2 as cv2
 import os
 
 def frames_to_video(subfolder_path, output_folder, frame_rate):

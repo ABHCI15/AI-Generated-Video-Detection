@@ -55,5 +55,5 @@ def process_folder(folder_path):
             process_video(video_path, output_base_path)
 
 # Specify your videos folder here
-videos_folder = 'Sora/Sora'
+videos_folder = 'Sora'
 process_folder(videos_folder)
